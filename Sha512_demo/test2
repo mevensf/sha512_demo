@@ -1,0 +1,18 @@
+bizContent = {
+	"accessType": "0",
+	"traReserved": "{\"key1\":\"value1\",\"key2\":\"value2\"}",
+	"instId": "",
+	"orderId": "20200921140215312",
+	"reqReserved": "Reserved",
+	"txnTime": "20200921140215",
+	"respMsg": "success",
+	"merId": "000000000000001",
+	"accType": "0",
+	"respCode": "SUCCESS"
+} &
+nonceStr = 123abc &
+returnCode = RT1000 &
+returnMsg = request biz success &
+transType = 2070 &
+version = 1.0.0 &
+signature = YTM4OGYxNzI1MzZiYTMzMjYwOGJhZWYxZDljNGFmMDg5YjQ0ODI0NjdhNTUxMTVhNjIxYjk3YWUyYjExYTgyODg5NzRhYWExMzM4MjU0YjZmMDRiMTBiNjZmMmVhZWQ0ZGQ2ZDI4MmZlY2YyMDNkOTViOTlkM2NmMjU5ZmI5N2M =
